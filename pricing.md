@@ -75,6 +75,13 @@ Does your friend or family member have the gift of the gab? They can MC your cer
 - An extra 2 hours planning and support to assist your MC prepare the script
 - Validation of planned ceremony script
 
+# Payment Schedule
+
+| Payment        | Percentage | Due date                                         |
+| -------------- | ---------- | ------------------------------------------------ |
+| Deposit        | 25%        | Required to book your date and commence planning |
+| 2nd Instalment | 50%        | One month prior to the ceremony                  |
+| Final Payment  | 25%        | Seven days after the ceremony	                 |
 
 # Changes, Cancellation, and Refunds
 

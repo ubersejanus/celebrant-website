@@ -1,5 +1,14 @@
 [
   {
+    "title": "All love is welcome here",
+    "description": "",
+    "image": {
+      "url": "images/features/noun_The Process_1885341.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
     "title": "Free Consultation",
     "description": "New clients receive an obligation free consultation.",
     "image": {
@@ -9,17 +18,8 @@
     }
   },
   {
-    "title": "Where to Start",
-    "description": "A simple guide of the steps from 'yes' to 'I do' (and beyond).",
-    "image": {
-      "url": "images/features/noun_The Process_1885341.svg",
-      "width": 80,
-      "height": 80
-    }
-  },
-  {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Elopement Friendly",
+    "description": "",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,

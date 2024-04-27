@@ -4,20 +4,12 @@ date: 2024-04-27
 weight: 2
 ---
 
-Working from my templates, these weddings have space for a small amount of customisation. 
+Working from my templates, these ceremonies have space for your voice. 
 <!--more-->
 
 Business advisory involves reporting on performance as well as advising on strategic plans, risk assessment, and succession plans.
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
-
-# Objectives
-
-Financial accounting and financial reporting are often used as synonyms.
-
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
 
 # Pricing
 

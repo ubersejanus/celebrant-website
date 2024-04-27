@@ -4,20 +4,16 @@ date: 2024-04-27
 weight: 1
 ---
 
-A budget-conscious registry-style option that covers the legal requirements for marriages in Australia.
-<!--more-->
+A budget-conscious registry-style option that covers the legal requirements for marriage<!--more--> in Australia.
 
-Business advisory involves reporting on performance as well as advising on strategic plans, risk assessment, and succession plans.
+This option is recommended for eloping couples.
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
-# Objectives
+# Scripts
 
-Financial accounting and financial reporting are often used as synonyms.
-
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+- [Core Wedding Script](/data/scripts/core-wedding)
+- [Extended Wedding Ceremony Script](/data/scripts/extended-wedding)
 
 # Pricing
 

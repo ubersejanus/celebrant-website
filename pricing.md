@@ -11,7 +11,7 @@ All pricing includes travel to venues within one hour of Bayswater, Victoria.
 
 Travel elsewhere in Victoria may be charged by arrangement, and interstate travel will require you to pay for flights and one night’s accommodation.
 
-## Legal Essentials Ceremony - $500
+## [Legal Essentials Ceremony](/services/legal-essentials-ceremony/): $500
 
 A budget-conscious registry-style option that covers the legal requirements for marriages in Australia.
 
@@ -23,7 +23,7 @@ A budget-conscious registry-style option that covers the legal requirements for 
 - Wedding ceremony (2 hours - includes prep time and final consultation)
 - All documentation, certification, and the registration of the marriage
 
-## Standard Ceremony - $750
+## [Standard Ceremony](/services/standard-ceremony/): $750
 
 Working from my templates, these weddings have space for a small amount of customisation. 
 
@@ -36,7 +36,7 @@ Working from my templates, these weddings have space for a small amount of custo
 - Wedding ceremony (2 hours - includes prep time and final consultation)
 - All documentation, certification, and the registration of the marriage
 
-## Custom Ceremony - $1,000 
+## [Custom Ceremony](/services/custom-ceremony/): $1,000 
 
 Have you got big ideas? Let’s make them happen. Starting from a blank slate, we will work together to ensure you get the wedding you dream of and a legally valid marriage.
 
@@ -50,10 +50,10 @@ Have you got big ideas? Let’s make them happen. Starting from a blank slate, w
 - All documentation, certification, and the registration of the marriage
 
 ## Additional Services
-•	Extra consultations - $50/hour 
-•	In-person consultations - $50 callout
+- Extra consultations - $50/hour 
+- In-person consultations - $50 callout
 
-### On-call Celebrant - $100 retainer, $500 callout fee 
+### [On-call Celebrant](/services/on-call-celebrant/): $100 retainer, $500 callout fee 
 
 Available for booking four weeks in advance of your ceremony
 
@@ -64,9 +64,8 @@ For those looking to cover their bases in the event your marriage celebrant isn�
 - Confirmation of script acceptance 
 - Transfer of documentation
 - Wedding ceremony (2 hours - includes prep time and final consultation)
-•
 
-### Side-Along Celebrancy – Additional $250
+### [Side-Along Celebrancy](/services/side-along-celebrancy/): Additional $250
 
 Not available for a Legal Essentials ceremony
 

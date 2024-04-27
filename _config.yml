@@ -1,6 +1,6 @@
-baseurl: '/'
+baseurl: '/celebrant-website/'
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'Brad Peters - Celebrant'
 
 logo:
   mobile: "images/logo/logo-mobile.svg"

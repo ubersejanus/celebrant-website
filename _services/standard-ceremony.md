@@ -4,7 +4,7 @@ date: 2024-04-27
 weight: 2
 ---
 
-Working from my templates, these ceremonies have space for your voice. 
+Working from my templates, these ceremonies have space for your voice
 <!--more-->
 
 Business advisory involves reporting on performance as well as advising on strategic plans, risk assessment, and succession plans.

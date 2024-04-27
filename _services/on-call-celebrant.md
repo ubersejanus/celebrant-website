@@ -4,7 +4,7 @@ date: 2024-04-27
 weight: 6
 ---
 
-For those looking to cover their bases in the event your marriage celebrant isn’t available on the big day.
+Are you looking to cover your bases in case your celebrant isn’t available on the big day?
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 

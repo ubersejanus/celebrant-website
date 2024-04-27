@@ -1,14 +1,5 @@
 [
   {
-    "title": "All love is welcome here",
-    "description": "",
-    "image": {
-      "url": "images/features/heart.svg",
-      "width": 80,
-      "height": 80
-    }
-  },
-  {
     "title": "Free Consultation",
     "description": "New clients receive an obligation free consultation.",
     "image": {
@@ -18,8 +9,17 @@
     }
   },
   {
-    "title": "Elopement Friendly",
+    "title": "All love is welcome here",
     "description": "",
+    "image": {
+      "url": "images/features/heart.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Your Wedding, Your Way",
+    "description": "Please reach out to discuss elopements or adventure weddings",
     "image": {
       "url": "images/features/wedding-rings.svg",
       "width": 80,

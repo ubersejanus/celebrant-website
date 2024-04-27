@@ -8,7 +8,8 @@ permalink: "/data/scripts/core-wedding"
 ## Introduction
 
 **Celebrant:** Good morning / afternoon / evening, my name is Bradley Peters and I am an authorised marriage celebrant. I am privileged to be here today to officiate at the marriage of \[Spouse 1's full legal name] and \[Spouse 2’s full legal name]. I also want to wish you much happiness in your future lives together.
-Declaration
+
+## Declaration
 
 **Celebrant:** Do you \[Bride/Groom/Partner's name] and do you \[Bride/Groom/Partner's name] declare before me and your witnesses that you are free by law to be married to each other today?
 
@@ -40,7 +41,7 @@ witness that I \[Spouse 2's name], take you
 
 The couple, one at a time, repeat after the Celebrant:
 
-\[Spouse's name], wear this ring with all my love.
+\[Other Spouse's name], wear this ring with all my love.
 
 ## Conclusion of Ceremony
 
@@ -49,6 +50,7 @@ The couple, one at a time, repeat after the Celebrant:
 ### Signing of Marriage Certificates
 
 *The couple sign first, then Witnesses and then celebrant.*
+
 *Presentation of Marriage Certificate*
 
 **Celebrant:** Ladies and gentlemen, family and friends, thank you all for coming here today to celebrate with \[Spouse 1's name] and \[Spouse 2's name] on their Wedding Day and for making their day so special.

@@ -2,9 +2,10 @@
 title: "Where to Start"
 date: 2024-04-27
 weight: 6
+permalink: "/data/getting-started"
 ---
 
-A simple guide of the steps that lead from "Yes!" to "I do" (and beyond)
+A simple guide of the steps that lead from "Yes!" to "I do"
 
 ![image of preparation](/images/preparation.jpg)
 
@@ -14,19 +15,62 @@ The wedding ceremony is an opportunity to perform all of the statutory requireme
 
 # The Paperwork
 
-## Notice of Intended Marriage
+## [Notice of Intended Marriage](https://www.ag.gov.au/families-and-marriage/publications/notice-intended-marriage)
 
-The first form must be completed at least one month before your wedding ceremony, and no more than 18 months before your wedding ceremony. It is the start of the formal process of marriage, and if there is any delay, we can simply complete a new copy of the form after 17 months.
+The first form must be completed at least one month before your wedding ceremony, and no more than 18 months before your wedding ceremony. It is the start of the formal process of marriage. If there is any delay, we can simply complete a new copy of the form after 17 months (to account for the one=month waiting period.)
 
-## Declaration of No Legal Impediment to Marriage
+### Identification
+
+Even if I know you personally, I am required to identify you on behalf of the Australian Government before accepting your Notice of Intended Marriage. In order to do so, I will need to see the following:
+
+- **Category A Document – the start of your identity in Australia:**
+    - Official Birth Certificate issued by an Australian Registry of Births, Deaths, & Marriages 
+    - Australian Citizenship Certificate 
+    - Certificate of Australian Citizenship by Descent
+    - Australian Visa and your foreign passport
+- **Category B Document – a current and valid government-issued photo ID showing your signature:**
+    - Passport
+    - Driver’s Licence
+    - Proof of Age Card
+- **Evidence of any changes of name since your Category A Document was issued:**
+    - Change of Name Certificate issued by an Australian Registry of Births, Deaths, & Marriages
+    - Marriage Certificate issued by an Australian Registry of Births, Deaths, & Marriages
+- **Evidence of your birthplace if you have not provided it in one of the previous documents**
+    - This could be a foreign birth certificate
+    - If you do not have a birth certificate, a [Commonwealth Statutory Declaration](https://www.ag.gov.au/legal-system/publications/commonwealth-statutory-declaration-form) attesting to the date and location of your birth, as well as the reasons why it is practically impossible to obtain a birth certificate signed by you or one of your parents is acceptable.
+
+### Additional Documents Required Where a Party has Previously Been Married
+In Australia, a person can only legally be married to one person at a time, and part of the Celebrant’s role is to ensure that both parties to a marriage are currently unmarried.
+
+Where the previous marriage ended in divorce or annulment, you must provide the official paperwork dissolving or annulling the marriage. The name of this document varies depending on when your previous marriage ended. If a marriage has not yet ended, we can begin planning but won’t be able to proceed with the ceremony until your divorce is finalised.
+
+Where the previous marriage ended with the death of a spouse, that person’s government-issued Death Certificate must be provided.
+
+### Translation
+If any documents are not written in English, you must provide a translation by a translator accredited by the [National Accreditation Authority for
+Translators and Interpreters](https://www.naati.com.au/) as well as the original document.
+
+## Additional Documents Required Where One Spouse is Aged 16 or 17
+
+In the event that a person aged 16 or 17 wishes to marry someone aged 18 or over, they need their parents' consent and a court order that authorises them to marry that specific person. The marriage must occur within three months of the court order being made.
+
+**THIS IS GENERAL ADVICE ONLY, YOU SHOULD CONSULT A SOLICITOR TO UNDERSTAND YOUR LEGAL OPTIONS PROPERLY**
+
+It is very rare for a court order authorising the marriage of a 16/17 year old to be made.
+
+Two people aged 16 or 17 may not marry under any circumstances.
+
+A person aged 15 or younger may not marry under any circumstances.
+
+## [Declaration of No Legal Impediment to Marriage](https://www.ag.gov.au/families-and-marriage/publications/declaration-no-legal-impediment-marriage)
 
 This form is completed shortly before the wedding, and it is the formal certification that you are both able to marry.
 
 ## Marriage Certificates
 
-During the ceremony, three copies of the ceremonial marriage certificate are signed. One is obviously for you, one is kept in my records, and the last one is forwarded to the Registry of Births, Deaths, and Marriages.
+During the ceremony, three copies of the ceremonial marriage certificate are signed. One is obviously for you, one is kept in my records (see my [Privacy Policy](/data/privacy.pdf)), and the last one is forwarded to the Registry of Births, Deaths, and Marriages.
 
-Once the Registry of Births, Deaths, and Marriages registers your marriage you can (and should) order a copy of the registered marriage certificate. This is different from the one you sign on the day because it can be electronically verified when applying for passports, bank accounts, and so on.  
+Once the Registry of Births, Deaths, and Marriages registers your marriage you can (and should) order a copy of the registered marriage certificate. This is different from the one you sign on the day because it has a registration number that can be electronically verified when applying for passports, bank accounts, and so on.  
 
 # Determine the Structure of the Ceremony
 
@@ -34,33 +78,39 @@ The minimum requirements for a wedding ceremony are surprisingly short. I am req
 
 Almost all the traditional elements of a marriage ceremony that you may have expected to see are entirely optional. Some of the popular elements are listed below, along with some examples of what we could say during this part of the ceremony.
 
-# Preparing the Script
+## Preparing the Script
 When we begin to work together to develop the script for your ceremony, I will need to know a lot of information about you! Some of the questions that you should be prepared to answer include:
 
 - The date, time, and location of the ceremony
 - Your names (both legal names and what your family/friends call you day-to-day)
 - What title you both plan to take? (Bride, Groom, Partner, or Spouse)
 - What is the vibe you envision for the ceremony? 
-  - Stiff and formal?
-  - Carefree and full of humour?
+    - Stiff and formal?
+    - Carefree and full of humour?
 - How you wish to be introduced at the end of the ceremony
 - What do you want to see included in your ceremony?
-  - Do you plan to write your own vows?
-  - Would you like me to make an Acknowledgement of Country?
-  - Would you like to invite a traditional owner to perform a Welcome to Country?
-  - Will there be any readings or music included?
-  - Will one or both partners be given away or have some other blessing from their families?
+    - Do you plan to write your own vows?
+    - Would you like me to make an Acknowledgement of Country?
+    - Would you like to invite a traditional owner to perform a Welcome to Country?
+    - Will there be any readings or music included?
+    - Will one or both partners be given away or have some other blessing from their families?
 - Are there any rituals you would like to include in the ceremony? Some possibilities include:
-  - Handfasting
-  - Candle Ceremony
-  - Jumping over a broom
-  - Ring warming
-  - Sharing of wine
+    - Handfasting
+    - Candle Ceremony
+    - Jumping over a broom
+    - Ring warming
+    - Sharing of wine
 - Are any guests coming from a particularly long distance that should be acknowledged? 
 - Are there any children that will also be part of your new family to include?
 - Any other key people who need to be acknowledged?
 - What is the story of your relationship?
 - Will there be an interpreter at the wedding?
+
+# Witnesses
+
+You must provide two witnesses to sign the marriage certificates on the day. These people must be aged 18 or older, and it would be their role to testify in court if the marriage were ever questioned. 
+
+Your witnesses should ideally know you personally, however, it is legally sufficient that they establish your identity from your documents. 
 
 # Marriage Education Services
 
@@ -69,15 +119,15 @@ Pre-marriage counselling and education gives couples a range of skills and knowl
 For more information about the services and advice available for couples and families, visit the Family Relationships Online website at [www.familyrelationships.gov.au](https://www.familyrelationships.gov.au) or phone the Family Relationship Advice Line on 1800 050 321.
 
 # How to Make a Complaint
-I would ask that you bring any misgivings or complaints to me in the first instance, but if you feel the need to make a formal complaint, you can do so by contacting the Marriage Law and Celebrants Section of the Commonwealth Attorney-General’s Department using the official form available from their website: https://www.ag.gov.au/families-and-marriage/marriage/complain-about-marriage-celebrant 
+I would ask that you bring any misgivings or complaints to me in the first instance, but if you feel the need to make a formal complaint, you can do so by contacting the Marriage Law and Celebrants Section of the Commonwealth Attorney-General’s Department using the official form available from their website: [https://www.ag.gov.au/families-and-marriage/marriage/complain-about-marriage-celebrant](https://www.ag.gov.au/families-and-marriage/marriage/complain-about-marriage-celebrant) 
 
 ## Making a Complaint
 Complaints must be made within three months of you becoming aware of the problem, and the receipt of your complaint will be acknowledged by the department in writing.
 
 You can complain if a marriage celebrant has broken the rules in the:
-- Marriage Act 1961
-- Marriage Regulations 2017
-- Code of Practice for marriage celebrants
+- [Marriage Act 1961](https://www.legislation.gov.au/C1961A00012/latest)
+- [Marriage Regulations 2017](https://www.legislation.gov.au/F2017L01359/latest)
+- [Code of Practice for Marriage Celebrants](https://www.ag.gov.au/families-and-marriage/publications/code-practice-marriage-celebrants)
 
 Once your complaint has been received, the Attorney-General’s Department will review it to make sure that they have all the information they need, it has merit, and there is not a more appropriate government department to review the complaint (such as the Australian Competition and Consumer Commission or a state Fair Trading Body) and they may open an investigation.
 

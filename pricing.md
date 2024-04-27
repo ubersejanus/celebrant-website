@@ -13,7 +13,7 @@ Travel elsewhere in Victoria may be charged by arrangement, and interstate trave
 
 ## Wedding Packages
 
-Each package includes an initial virtual consultation, completion of the Notice of Intended Marriage, all documentation, certification, and the registration of the marriage
+Each package includes an initial virtual consultation, completion of the Notice of Intended Marriage, all documentation, certification, and the registration of the marriage.
 
 | Package                                                  | Cost   | Script       | Planning & Support | The Ceremony                   |
 | -------------------------------------------------------- | ------ | ------------ | ------------------ | ------------------------------ |

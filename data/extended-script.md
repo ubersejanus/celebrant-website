@@ -20,7 +20,8 @@ permalink: "/data/scripts/extended-wedding"
 **Celebrant:** We have come together today to witness the promises in marriage of \[Spouse 1's full legal name] and \[Spouse 2's full legal name]. This commitment is between two people who love each other and wish to share each other’s lives, who will grow and change in the years to come, welcoming each other’s growth with mutual love and respect.
 
 **Celebrant:** My name is Bradley Peters and I am duly authorised by law to solemnise marriages according to law and to officiate at your marriage today. I take this opportunity to wish you both much happiness in your future lives together.
-Declaration
+
+## Declaration
 
 **Celebrant:** \[Spouse 1's name] and \[Spouse 2's name], do you declare before me and before your witnesses here present, that you come here voluntarily and without reservation and that you are free by law to be married to each other today?
 

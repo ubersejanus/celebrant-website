@@ -23,12 +23,12 @@ Each package includes an initial virtual consultation, completion of the Notice 
 
 ## Additional Services
 
-| Package                                                   | Cost                            | Script       | Planning & Support | The Ceremony                   |
-| --------------------------------------------------------- | ------------------------------- | ------------ | ------------------ | ------------------------------ |
-| [On-call Celebrant](/services/on-call-celebrant/)         | $100 retainer, $500 callout fee | Standardised | 2 Hours            | 2 Hours                        |
-| [Side-Along Celebrancy](/services/side-along-celebrancy/) | $250                            | Customised   | 4 Hours            | 2 Hours, plus 1 hour rehersal  |
-| Extra consultations                                       | $50/hour                        |              |                    |                                |
-| In-person consultations                                   | $50 callout                     |              |                    |                                |
+| Add-on                                                    | Cost                               |
+| --------------------------------------------------------- | ---------------------------------- |
+| [On-call Celebrant](/services/on-call-celebrant/)         | $100 retainer,<br>$500 callout fee |
+| [Side-Along Celebrancy](/services/side-along-celebrancy/) | $250                               |
+| Extra consultations                                       | $50/hour                           |
+| In-person consultations                                   | $50 callout                        |
 
 # Payment Schedule
 

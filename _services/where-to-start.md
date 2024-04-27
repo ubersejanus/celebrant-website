@@ -6,7 +6,7 @@ weight: 6
 
 A simple guide of the steps that lead from "Yes!" to "I do" (and beyond)
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![image of preparation](/images/preparation.jpg)
 
 # Why do we need to have a ceremony anyway?
 

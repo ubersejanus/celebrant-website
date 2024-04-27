@@ -26,7 +26,7 @@ Each package includes an initial virtual consultation, completion of the Notice 
 | Add-on                                                    | Cost                               |
 | --------------------------------------------------------- | ---------------------------------- |
 | [On-call Celebrant](/services/on-call-celebrant/)         | $100 retainer,<br>$500 callout fee |
-| [Side-Along Celebrancy](/services/side-along-celebrancy/) | $250                               |
+| [Side-Along Celebrancy](/services/side-along-celebrancy/) | $250, plus your selected package   |
 | Extra consultations                                       | $50/hour                           |
 | In-person consultations                                   | $50 callout                        |
 
@@ -45,4 +45,3 @@ Booking dates can be changed free of charge, assuming that I am available on the
 If a wedding is cancelled, the balance will no longer be due, but the deposit is non-refundable.
 
 Where a couple wishes to switch celebrants before the wedding, refunds may be considered upon request.
-

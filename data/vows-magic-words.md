@@ -1,5 +1,5 @@
 ---
-title: Vows: The Magic Words
+title: Vows&#58; The Magic Words
 layout: page
 description: All about vows
 permalink: "/data/vows-magic-words"

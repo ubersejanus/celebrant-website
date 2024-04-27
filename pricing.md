@@ -5,75 +5,30 @@ description: Pricing
 permalink: "/pricing/"
 ---
 
-# Price Structure
+# Pricing Structure
 
 All pricing includes travel to venues within one hour of Bayswater, Victoria.
 
 Travel elsewhere in Victoria may be charged by arrangement, and interstate travel will require you to pay for flights and one night’s accommodation.
 
-## [Legal Essentials Ceremony](/services/legal-essentials-ceremony/): $500
+## Wedding Packages
 
-A budget-conscious registry-style option that covers the legal requirements for marriages in Australia.
+Each package includes an initial virtual consultation, completion of the Notice of Intended Marriage, all documentation, certification, and the registration of the marriage
 
-**This package includes:**
-- Virtual initial consultation
-- Completion of the Notice of Intended Marriage
-- 2 hours of planning and support
-- A standardised ceremony script
-- Wedding ceremony (2 hours - includes prep time and final consultation)
-- All documentation, certification, and the registration of the marriage
-
-## [Standard Ceremony](/services/standard-ceremony/): $750
-
-Working from my templates, these weddings have space for a small amount of customisation. 
-
-**This package includes:**
-- Virtual initial consultation
-- Completion of the Notice of Intended Marriage
-- 4 hours of planning and support
-- A customised ceremony script
-- Rehearsal ceremony (1 hour)
-- Wedding ceremony (2 hours - includes prep time and final consultation)
-- All documentation, certification, and the registration of the marriage
-
-## [Custom Ceremony](/services/custom-ceremony/): $1,000 
-
-Have you got big ideas? Let’s make them happen. Starting from a blank slate, we will work together to ensure you get the wedding you dream of and a legally valid marriage.
-
-**This package includes:**
-- Virtual initial consultation
-- Completion of the Notice of Intended Marriage
-- 6 hours of planning and support
-- A bespoke ceremony script
-- Rehearsal ceremony (2 hours)
-- Wedding ceremony (3 hours - includes prep time and last-minute paperwork)
-- All documentation, certification, and the registration of the marriage
+| Package                                                  | Cost   | Script       | Planning & Support | The Ceremony                   |
+| -------------------------------------------------------- | ------ | ------------ | ------------------ | ------------------------------ |
+| [Legal Essentials](/services/legal-essentials-ceremony/) | $500   | Standardised | 2 Hours            | 2 Hours                        |
+| [Standard Ceremony](/services/standard-ceremony/)        | $750   | Customised   | 4 Hours            | 2 Hours, plus 1 hour rehersal  |
+| [Custom Ceremony](/services/custom-ceremony/)            | $1,000 | Bespoke      | 6 Hours            | 3 Hours, plus 2 hours rehersal |
 
 ## Additional Services
-- Extra consultations - $50/hour 
-- In-person consultations - $50 callout
 
-### [On-call Celebrant](/services/on-call-celebrant/): $100 retainer, $500 callout fee 
-
-Available for booking four weeks in advance of your ceremony
-
-For those looking to cover their bases in the event your marriage celebrant isn’t available on the big day, I can step in to execute the wedding that you have already planned.
-
-**This package includes**
-- Initial virtual consultation
-- Confirmation of script acceptance 
-- Transfer of documentation
-- Wedding ceremony (2 hours - includes prep time and final consultation)
-
-### [Side-Along Celebrancy](/services/side-along-celebrancy/): Additional $250
-
-Not available for a Legal Essentials ceremony
-
-Does your friend or family member have the gift of the gab? They can MC your ceremony, while I take care of the legal necessities and perform the actual marriage.
-
-**This package includes:**  
-- An extra 2 hours planning and support to assist your MC prepare the script
-- Validation of planned ceremony script
+| Package                                                   | Cost                            | Script       | Planning & Support | The Ceremony                   |
+| --------------------------------------------------------- | ------------------------------- | ------------ | ------------------ | ------------------------------ |
+| [On-call Celebrant](/services/on-call-celebrant/)         | $100 retainer, $500 callout fee | Standardised | 2 Hours            | 2 Hours                        |
+| [Side-Along Celebrancy](/services/side-along-celebrancy/) | $250                            | Customised   | 4 Hours            | 2 Hours, plus 1 hour rehersal  |
+| Extra consultations                                       | $50/hour                        |              |                    |                                |
+| In-person consultations                                   | $50 callout                     |              |                    |                                |
 
 # Payment Schedule
 

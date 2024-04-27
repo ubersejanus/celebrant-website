@@ -5,8 +5,6 @@ description: Basic Wedding Ceremony Script
 permalink: "/data/scripts/core-wedding"
 ---
 
-## Vows: The Magic Words
-
 ## Introduction
 
 **Celebrant:** Good morning / afternoon / evening, my name is Bradley Peters and I am an authorised marriage celebrant. I am privileged to be here today to officiate at the marriage of \[Spouse 1's full legal name] and \[Spouse 2’s full legal name]. I also want to wish you much happiness in your future lives together.
@@ -29,14 +27,14 @@ The Couple, one at a time, repeat the vows after the Celebrant:
 **Spouse 1 (repeating after Celebrant):**
 
 I call upon the people here present to  
-witness that I \[Bride/Groom/Partner's name], take you  
-\[Bride/Groom/Partner's name] to be my lawful wedded \[Husband/Wife/Spouse].
+witness that I \[Spouse 1's name], take you  
+\[Spouse 2's name] to be my lawful wedded \[Husband/Wife/Spouse].
 
 **Spouse 2 (repeating after Celebrant):**
 
 I call upon the people here present to  
-witness that I \[Bride/Groom/Partner's name], take you  
-\[Bride/Groom/Partner's name] to be my lawful wedded \[Husband/Wife/Spouse].
+witness that I \[Spouse 2's name], take you  
+\[Spouse 1's name] to be my lawful wedded \[Husband/Wife/Spouse].
 
 ## Ring Ceremony (optional)
 

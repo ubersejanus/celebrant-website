@@ -11,6 +11,12 @@ Starting from a blank slate, we will work together to ensure you get the wedding
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
+# Ideas to get started
+
+- [Core Wedding Script](/data/scripts/core-wedding)
+- [Extended Wedding Ceremony Script](/data/scripts/extended-wedding)
+- [Some suggested ceremony components](/data/ceremony-components)
+
 # Pricing
 
 The Standard package costs $1,000

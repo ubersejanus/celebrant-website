@@ -11,22 +11,28 @@ Business advisory involves reporting on performance as well as advising on strat
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
+# Ideas to get started
+
+- [Core Wedding Script](/data/scripts/core-wedding)
+- [Extended Wedding Ceremony Script](/data/scripts/extended-wedding)
+- [Some suggested ceremony components](/data/ceremony-components)
+
 # Pricing
 
 The Standard package costs $750
 
 - **Inclusions**
- - Virtual initial consultation
- - Completion of the Notice of Intended Marriage
- - 4 hours of planning and support
- - A customised ceremony script
- - Rehearsal ceremony (1 hour)
- - Wedding ceremony (2 hours - includes prep time and final consultation)
- - All documentation, certification, and the registration of the marriage
+  - Virtual initial consultation
+  - Completion of the Notice of Intended Marriage
+  - 4 hours of planning and support
+  - A customised ceremony script
+  - Rehearsal ceremony (1 hour)
+  - Wedding ceremony (2 hours - includes prep time and final consultation)
+  - All documentation, certification, and the registration of the marriage
 - **Add-ons**
- - Extra consultations: $50/hour 
- - In-person consultations: $50 callout
- - Side-along Celebrancy: $250
+  - Extra consultations: $50/hour 
+  - In-person consultations: $50 callout
+  - Side-along Celebrancy: $250
 
 Pricing includes travel to venues within one hour of Bayswater, Victoria.
 

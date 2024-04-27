@@ -4,7 +4,8 @@ date: 2024-04-27
 weight: 1
 ---
 
-A budget-conscious registry-style option that covers the legal requirements for marriage<!--more--> in Australia.
+A budget-conscious registry-style option that covers the legal requirements for marriage
+<!--more-->
 
 This option is recommended for eloping couples.
 

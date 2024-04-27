@@ -5,8 +5,6 @@ description: Extended Wedding Ceremony Script
 permalink: "/data/scripts/extended-wedding"
 ---
 
-## Vows: The Magic Words
-
 ## Marriage party entry (optional)
 
 *If one or both parties are being presented by a family member or friend.*
@@ -19,7 +17,7 @@ permalink: "/data/scripts/extended-wedding"
 
 **Celebrant:** Welcome family and friends.
 
-**Celebrant:** We have come together today to witness the promises in marriage of \[Bride/Groom/Partner's full legal name] and \[Bride/Groom/Partner full legal name]. This commitment is between two people who love each other and wish to share each other’s lives, who will grow and change in the years to come, welcoming each other’s growth with mutual love and respect.
+**Celebrant:** We have come together today to witness the promises in marriage of \[Spouse 1's full legal name] and \[Spouse 2's full legal name]. This commitment is between two people who love each other and wish to share each other’s lives, who will grow and change in the years to come, welcoming each other’s growth with mutual love and respect.
 
 **Celebrant:** My name is Bradley Peters and I am duly authorised by law to solemnise marriages according to law and to officiate at your marriage today. I take this opportunity to wish you both much happiness in your future lives together.
 Declaration
@@ -65,6 +63,7 @@ Choose a reading and/or song of your own. You can ask a family member or friend 
 ### Signing of Marriage Certificates
 
 *Couple sign first, then Witnesses and then celebrant.*
+
 *Presentation of Marriage Certificate*
 
 **Celebrant:** Ladies and gentlemen, family and friends, thank you all for coming here today to celebrate with \[Spouse 1's name] and \[Spouse 2's name] on their Wedding Day and for making their day so special. 

@@ -4,7 +4,10 @@ date: 2024-04-27
 weight: 5
 ---
 
-Does your friend or family member have the gift of the gab? They can MC your ceremony<!--more-->, while I take care of the legal necessities and perform the actual marriage.
+Does your friend or family member have the gift of the gab? They can MC your ceremony 
+<!--more-->
+
+While I take care of the legal necessities and perform the actual marriage.
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 

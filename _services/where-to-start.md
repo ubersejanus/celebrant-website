@@ -5,7 +5,7 @@ weight: 6
 permalink: "/data/getting-started"
 ---
 
-A simple guide of the steps that lead from "Yes!" to "I do"
+A guide to the steps that lead from "Yes!" to "I do"
 
 ![image of preparation](/images/preparation.jpg)
 

@@ -17,7 +17,7 @@ The wedding ceremony is an opportunity to perform all of the statutory requireme
 
 ## [Notice of Intended Marriage](https://www.ag.gov.au/families-and-marriage/publications/notice-intended-marriage)
 
-The first form must be completed at least one month before your wedding ceremony, and no more than 18 months before your wedding ceremony. It is the start of the formal process of marriage. If there is any delay, we can simply complete a new copy of the form after 17 months (to account for the one=month waiting period.)
+The first form must be completed at least one month before your wedding ceremony, and no more than 18 months before your wedding ceremony. It is the start of the formal process of marriage. If there is any delay, we can simply complete a new copy of the form after 17 months (to account for the one=month waiting period.) It can be submitted by a person whose divorce is still pending.
 
 ### Identification
 
@@ -56,19 +56,19 @@ In the event that a person aged 16 or 17 wishes to marry someone aged 18 or over
 
 **THIS IS GENERAL ADVICE ONLY, YOU SHOULD CONSULT A SOLICITOR TO UNDERSTAND YOUR LEGAL OPTIONS PROPERLY**
 
-It is very rare for a court order authorising the marriage of a 16/17 year old to be made.
+It is rare for a court order authorising the marriage of a 16/17 year old to be made.
 
-Two people aged 16 or 17 may not marry under any circumstances.
+Two people under 18 years of age may not marry under any circumstances.
 
-A person aged 15 or younger may not marry under any circumstances.
+A person under 16 years of age may not marry under any circumstances.
 
 ## [Declaration of No Legal Impediment to Marriage](https://www.ag.gov.au/families-and-marriage/publications/declaration-no-legal-impediment-marriage)
 
-This form is completed shortly before the wedding, and it is the formal certification that you are both able to marry.
+This form is completed shortly before the wedding, and it is the formal certification that you are both able to marry. It cannot be completed by someone whose divorce is still pending, and the marriage will be unable to proceed until this declaration can be completed.
 
 ## Marriage Certificates
 
-During the ceremony, three copies of the ceremonial marriage certificate are signed. One is obviously for you, one is kept in my records (see my [Privacy Policy](/data/privacy.pdf)), and the last one is forwarded to the Registry of Births, Deaths, and Marriages.
+During the ceremony, three copies of the ceremonial marriage certificate are signed. One is obviously for you, one is kept in my records (see my [Privacy Policy](/data/privacy.pdf)), and the last one is forwarded to the Registry of Births, Deaths, and Marriages so that your marriage can be registered.
 
 Once the Registry of Births, Deaths, and Marriages registers your marriage you can (and should) order a copy of the registered marriage certificate. This is different from the one you sign on the day because it has a registration number that can be electronically verified when applying for passports, bank accounts, and so on.  
 

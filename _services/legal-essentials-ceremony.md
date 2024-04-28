@@ -19,15 +19,15 @@ A budget-conscious registry-style option that covers the legal requirements for 
 The Legal Essentials package costs $500
 
 - **Inclusions**
- - Virtual initial consultation
- - Completion of the Notice of Intended Marriage
- - 2 hours of planning and support
- - A standardised ceremony script
- - Wedding ceremony (2 hours - includes prep time and final consultation)
- - All documentation, certification, and the registration of the marriage
+  - Virtual initial consultation
+  - Completion of the Notice of Intended Marriage
+  - 2 hours of planning and support
+  - A standardised ceremony script
+  - Wedding ceremony (2 hours - includes prep time and final consultation)
+  - All documentation, certification, and the registration of the marriage
 - **Add-ons**
- - Extra consultations: $50/hour 
- - In-person consultations: $50 callout
+  - Extra consultations: $50/hour 
+  - In-person consultations: $50 callout
 
 Pricing includes travel to venues within one hour of Bayswater, Victoria.
 

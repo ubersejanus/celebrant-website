@@ -16,13 +16,13 @@ If your celebrant has to drop out for some reason, I can step in to execute the 
 The On-Call Celebrancy package has a $100 retainer and $500 call-out charge.
 
 - **Inclusions**
- - Initial virtual consultation
- - Confirmation of script acceptance 
- - Transfer of documentation
- - Wedding ceremony (2 hours - includes prep time and final consultation)
+  - Initial virtual consultation
+  - Confirmation of script acceptance 
+  - Transfer of documentation
+  - Wedding ceremony (2 hours - includes prep time and final consultation)
 - **Add-ons**
- - Extra consultations: $50/hour 
- - In-person consultations: $50 callout
+  - Extra consultations: $50/hour 
+  - In-person consultations: $50 callout
 
 Pricing includes travel to venues within one hour of Bayswater, Victoria.
 

@@ -22,17 +22,18 @@ Starting from a blank slate, we will work together to ensure you get the wedding
 The Standard package costs $1,000
 
 - **Inclusions**
- - Virtual initial consultation
- - Completion of the Notice of Intended Marriage
- - 6 hours of planning and support
- - A bespoke ceremony script
- - Rehearsal ceremony (2 hour)
- - Wedding ceremony (3 hours - includes prep time and final consultation)
- - All documentation, certification, and the registration of the marriage
+  - Virtual initial consultation
+  - Completion of the Notice of Intended Marriage
+  - 6 hours of planning and support
+  - A bespoke ceremony script
+  - Rehearsal ceremony (2 hour)
+  - Wedding ceremony (3 hours - includes prep time and final consultation)
+  - All documentation, certification, and the registration of the marriage
 - **Add-ons**
- - Extra consultations: $50/hour 
- - In-person consultations: $50 callout
- - [Side-along Celebrancy](/services/side-along-celebrancy): $250
+  - Extra consultations: $50/hour 
+  - In-person consultations: $50 callout
+  - [Side-along Celebrancy](/services/side-along-celebrancy): $250
+  - Order 
 
 Pricing includes travel to venues within one hour of Bayswater, Victoria.
 

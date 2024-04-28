@@ -19,7 +19,7 @@ Each package includes an initial virtual consultation, completion of the Notice 
 | -------------------------------------------------------- | ------ | ------------ | ------------------ | ------------------------------ |
 | [Legal Essentials](/services/legal-essentials-ceremony/) | $500   | Standardised | 2 Hours            | 2 Hours                        |
 | [Standard Ceremony](/services/standard-ceremony/)        | $750   | Customised   | 4 Hours            | 2 Hours, plus 1 hour rehersal  |
-| [Custom Ceremony](/services/custom-ceremony/)            | $1,000 | Bespoke      | 6 Hours            | 3 Hours, plus 2 hours rehersal |
+| [Signature Ceremony](/services/signature-ceremony/)      | $1,000 | Bespoke      | 6 Hours            | 3 Hours, plus 2 hours rehersal |
 
 ## Additional Services
 

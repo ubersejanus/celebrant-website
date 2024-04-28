@@ -1,5 +1,5 @@
 ---
-title: "Custom Ceremony"
+title: "Signature Ceremony"
 date: 2024-04-27
 weight: 3
 ---
@@ -19,7 +19,7 @@ Starting from a blank slate, we will work together to ensure you get the wedding
 
 # Pricing
 
-The Standard package costs $1,000
+The Signature package costs $1,000
 
 - **Inclusions**
   - Virtual initial consultation

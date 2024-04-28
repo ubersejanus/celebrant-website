@@ -5,14 +5,11 @@ weight: 6
 ---
 
 Are you looking to cover your bases in case your celebrant isn’t available on the big day?
-
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
-
-# Details
+<!--more-->
 
 Available for booking four weeks in advance of your ceremony.
 
-If your celebrant I can step in to execute the wedding that you have already planned.
+If your celebrant has to drop out for some reason, I can step in to execute the wedding that you have already planned.
 
 # Pricing
 

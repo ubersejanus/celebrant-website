@@ -32,7 +32,7 @@ The Standard package costs $1,000
 - **Add-ons**
  - Extra consultations: $50/hour 
  - In-person consultations: $50 callout
- - Side-along Celebrancy: $250
+ - [Side-along Celebrancy](/services/side-along-celebrancy): $250
 
 Pricing includes travel to venues within one hour of Bayswater, Victoria.
 

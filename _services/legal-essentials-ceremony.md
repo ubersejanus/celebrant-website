@@ -7,8 +7,6 @@ weight: 1
 A budget-conscious registry-style option that covers the legal requirements for marriage
 <!--more-->
 
-This option is recommended for eloping couples.
-
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
 # Scripts

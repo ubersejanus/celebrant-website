@@ -17,7 +17,7 @@ The wedding ceremony is an opportunity to perform all of the statutory requireme
 
 ## [Notice of Intended Marriage](https://www.ag.gov.au/families-and-marriage/publications/notice-intended-marriage)
 
-The first form must be completed at least one month before your wedding ceremony, and no more than 18 months before your wedding ceremony. It is the start of the formal process of marriage. If there is any delay, we can simply complete a new copy of the form after 17 months (to account for the one=month waiting period.) It can be submitted by a person whose divorce is still pending.
+The first form must be completed at least one month before your wedding ceremony, and no more than 18 months before your wedding ceremony. It is the start of the formal process of marriage. It can be submitted by a person whose divorce is still pending, and if there are any delays, you can simply complete a new one - but be sure to account for the one-month waiting period.
 
 ### Identification
 

@@ -1,7 +1,7 @@
 ---
-title: Shortening of Time&#58; When Time is of the Essence
+title: Handy Links
 layout: page
-description: When you need to get married in a hurry
+description: Useful links to external websites
 permalink: "/resources/handy-links"
 ---
 

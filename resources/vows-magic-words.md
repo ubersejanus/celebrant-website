@@ -2,7 +2,7 @@
 title: Vows&#58; The Magic Words
 layout: page
 description: All about vows
-permalink: "/data/vows-magic-words"
+permalink: "/resources/vows-magic-words"
 ---
 
 The vows are the most well-known part of a wedding ceremony. But did you know that they are defined by law?

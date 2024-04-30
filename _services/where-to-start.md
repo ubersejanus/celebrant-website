@@ -2,7 +2,7 @@
 title: "Where to Start"
 date: 2024-04-27
 weight: 6
-permalink: "/data/getting-started"
+permalink: "/resources/getting-started"
 ---
 
 A guide to the steps that lead from "Yes!" to "I do"
@@ -68,7 +68,7 @@ This form is completed shortly before the wedding, and it is the formal certific
 
 ## Marriage Certificates
 
-During the ceremony, three copies of the ceremonial marriage certificate are signed. One is obviously for you, one is kept in my records (see my [Privacy Policy](/data/privacy.pdf)), and the last one is forwarded to the Registry of Births, Deaths, and Marriages so that your marriage can be registered.
+During the ceremony, three copies of the ceremonial marriage certificate are signed. One is obviously for you, one is kept in my records (see my [Privacy Policy](/resources/privacy.pdf)), and the last one is forwarded to the Registry of Births, Deaths, and Marriages so that your marriage can be registered.
 
 Once the Registry of Births, Deaths, and Marriages registers your marriage you can (and should) order a copy of the registered marriage certificate. This is different from the one you sign on the day because it has a registration number that can be electronically verified when applying for passports, bank accounts, and so on.  
 

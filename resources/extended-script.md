@@ -2,7 +2,7 @@
 title: Extended Wedding Ceremony Script
 layout: page
 description: Extended Wedding Ceremony Script
-permalink: "/data/scripts/extended-wedding"
+permalink: "/resources/scripts/extended-wedding"
 ---
 
 ## Marriage party entry (optional)

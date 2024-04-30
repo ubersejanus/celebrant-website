@@ -11,8 +11,8 @@ A budget-conscious registry-style option that covers the legal requirements for 
 
 # Scripts
 
-- [Core Wedding Script](/data/scripts/core-wedding)
-- [Extended Wedding Ceremony Script](/data/scripts/extended-wedding)
+- [Core Wedding Script](/resources/scripts/core-wedding)
+- [Extended Wedding Ceremony Script](/resources/scripts/extended-wedding)
 
 # Pricing
 

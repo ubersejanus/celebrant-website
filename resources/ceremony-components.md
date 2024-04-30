@@ -2,7 +2,7 @@
 title: Ceremony Components
 layout: page
 description: A list of things that people may wish to include in their wedding ceremony.
-permalink: "/data/ceremony-components"
+permalink: "/resources/ceremony-components"
 ---
 
 Here are some popular parts of wedding ceremonies that you might like to include:

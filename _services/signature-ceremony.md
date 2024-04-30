@@ -13,9 +13,9 @@ Starting from a blank slate, we will work together to ensure you get the wedding
 
 # Ideas to get started
 
-- [Core Wedding Script](/data/scripts/core-wedding)
-- [Extended Wedding Ceremony Script](/data/scripts/extended-wedding)
-- [Some suggested ceremony components](/data/ceremony-components)
+- [Core Wedding Script](/resources/scripts/core-wedding)
+- [Extended Wedding Ceremony Script](/resources/scripts/extended-wedding)
+- [Some suggested ceremony components](/resources/ceremony-components)
 
 # Pricing
 

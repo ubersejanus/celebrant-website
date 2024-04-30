@@ -13,9 +13,9 @@ Business advisory involves reporting on performance as well as advising on strat
 
 # Ideas to get started
 
-- [Core Wedding Script](/data/scripts/core-wedding)
-- [Extended Wedding Ceremony Script](/data/scripts/extended-wedding)
-- [Some suggested ceremony components](/data/ceremony-components)
+- [Core Wedding Script](/resources/scripts/core-wedding)
+- [Extended Wedding Ceremony Script](/resources/scripts/extended-wedding)
+- [Some suggested ceremony components](/resources/ceremony-components)
 
 # Pricing
 

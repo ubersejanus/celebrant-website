@@ -2,7 +2,7 @@
 title: Core Wedding Ceremony Script
 layout: page
 description: Basic Wedding Ceremony Script
-permalink: "/data/scripts/core-wedding"
+permalink: "/resources/scripts/core-wedding"
 ---
 
 ## Introduction

@@ -2,7 +2,7 @@
 title: Shortening of Time&#58; When Time is of the Essence
 layout: page
 description: When you need to get married in a hurry
-permalink: "/data/shortening-time"
+permalink: "/resources/shortening-time"
 ---
 
 Under normal circumstances, a couple must give at least one month's notice of their intention to marry. However, in some circumstances, you may be able to apply for special dispensation to get married sooner.

@@ -20,7 +20,7 @@ permalink: "/resources/handy-links"
 
 ### Changing Your Name After Marriage
 
-In Australia, if you choose to adopt or incorporate your spouse's surname, you can generally do so without going through the formal change of name process - your evidence of this change of name is your *registered* Marriage Certificate issued by the Registry of Births, Deaths, and Marriages. You can also switch back to your birth name without the normal Change of Name process in most cases.
+In Australia, if you choose to adopt or incorporate (or remove) your spouse's surname, you can generally do so without going through the formal change of name process - your evidence of this change of name is your *registered* Marriage Certificate issued by the Registry of Births, Deaths, and Marriages.
 
 If you want to change your given names as well, you will need to contact the Registry of Births, Deaths, and Marriages **in the state/territory that you were born in**. People who were born overseas can use the registry where they are living now (there may be some residency requirements - check with the specific Registry for details)
 

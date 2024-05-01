@@ -118,6 +118,12 @@ Pre-marriage counselling and education gives couples a range of skills and knowl
 
 For more information about the services and advice available for couples and families, visit the Family Relationships Online website at [www.familyrelationships.gov.au](https://www.familyrelationships.gov.au) or phone the Family Relationship Advice Line on 1800 050 321.
 
+# Changing Your Name After Marriage
+
+In Australia, if you choose to adopt or incorporate (or remove) your spouse's surname, you can generally do so without going through the formal change of name process - your evidence of this change of name is your *registered* Marriage Certificate issued by the Registry of Births, Deaths, and Marriages.
+
+If you want to change your given names as well, you will need to contact the Registry of Births, Deaths, and Marriages **in the state/territory that you were born in**. People who were born overseas can use the registry where they are living now (there may be some residency requirements - check with the specific Registry for details)
+
 # How to Make a Complaint
 I would ask that you bring any misgivings or complaints to me in the first instance, but if you feel the need to make a formal complaint, you can do so by contacting the Marriage Law and Celebrants Section of the Commonwealth Attorney-General’s Department using the official form available from their website: [https://www.ag.gov.au/families-and-marriage/marriage/complain-about-marriage-celebrant](https://www.ag.gov.au/families-and-marriage/marriage/complain-about-marriage-celebrant) 
 

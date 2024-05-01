@@ -11,4 +11,4 @@ bodyClass: page-about
 
 ### [Vows: The Magic Words](/resources/vows-magic-words)
 
-### [Shortening of Time: When Time is of the Essence](/resources/shortening-time)\
+### [Shortening of Time: When Time is of the Essence](/resources/shortening-time)

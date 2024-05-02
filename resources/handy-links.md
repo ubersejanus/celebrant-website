@@ -24,3 +24,6 @@ In Australia, if you choose to adopt or incorporate (or remove) your spouse's su
 
 If you want to change your given names as well, you will need to contact the Registry of Births, Deaths, and Marriages **in the state/territory that you were born in**. People who were born overseas can use the registry where they are living now (there may be some residency requirements - check with the specific Registry for details)
 
+## [Happily Ever Before and After](https://www.ag.gov.au/families-and-marriage/publications/happily-ever-and-after)
+
+Electronic versions of the brochure produced by the Attorney-General's Department pursuant to subsection 42(5A) of the *Marriage Act 1961*

@@ -13,7 +13,7 @@ If your celebrant has to drop out for some reason, I can step in to execute the 
 
 # Pricing
 
-The On-Call Celebrancy package has a $100 retainer and $500 call-out charge.
+The On-Call Celebrancy package has a $100 retainer and $600 call-out charge.
 
 - **Inclusions**
   - Initial virtual consultation
@@ -27,6 +27,12 @@ The On-Call Celebrancy package has a $100 retainer and $500 call-out charge.
 Pricing includes travel to venues within one hour of Bayswater, Victoria.
 
 Travel elsewhere in Victoria may be charged by arrangement, and interstate travel will require you to pay for flights and one night’s accommodation.
+
+## Next steps
+
+Let’s have a chat! The more I know about you and your plans, the better I can help ensure that your day goes off without a hitch.
+
+There are also some important details to discuss like the paperwork requirements you'll both need to know about as well.
 
 ## Changes, Cancellation, and Refunds
 

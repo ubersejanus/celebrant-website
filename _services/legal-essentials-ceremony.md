@@ -16,7 +16,7 @@ A budget-conscious registry-style option that covers the legal requirements for 
 
 # Pricing
 
-The Legal Essentials package costs $500
+The Legal Essentials package costs $600
 
 - **Inclusions**
   - Virtual initial consultation
@@ -32,6 +32,12 @@ The Legal Essentials package costs $500
 Pricing includes travel to venues within one hour of Bayswater, Victoria.
 
 Travel elsewhere in Victoria may be charged by arrangement, and interstate travel will require you to pay for flights and one night’s accommodation.
+
+## Next steps
+
+Let’s have a chat! The more I know about you and your story, the better ceremony I can craft for you.
+
+There are also some important details to discuss like legislated timelines and the paperwork requirements that you'll both need to know about as well.
 
 ## Changes, Cancellation, and Refunds
 

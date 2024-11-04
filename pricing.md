@@ -17,16 +17,16 @@ Each package includes an initial virtual consultation, completion of the Notice 
 
 | Package                                                  | Cost   | Script       | Planning & Support | The Ceremony                   |
 | -------------------------------------------------------- | ------ | ------------ | ------------------ | ------------------------------ |
-| [Legal Essentials](/services/legal-essentials-ceremony/) | $500   | Standardised | 2 Hours            | 2 Hours                        |
-| [Standard Ceremony](/services/standard-ceremony/)        | $750   | Customised   | 4 Hours            | 2 Hours, plus 1 hour rehersal  |
-| [Signature Ceremony](/services/signature-ceremony/)      | $1,000 | Bespoke      | 6 Hours            | 3 Hours, plus 2 hours rehersal |
+| [Legal Essentials](/services/legal-essentials-ceremony/) | $600   | Standardised | 2 Hours            | 2 Hours                        |
+| [Standard Ceremony](/services/standard-ceremony/)        | $900   | Customised   | 4 Hours            | 2 Hours, plus 1 hour rehersal  |
+| [Signature Ceremony](/services/signature-ceremony/)      | $1,200 | Bespoke      | 6 Hours            | 3 Hours, plus 2 hours rehersal |
 
 ## Additional Services
 
 | Add-on                                                    | Cost                               |
 | --------------------------------------------------------- | ---------------------------------- |
-| [On-call Celebrant](/services/on-call-celebrant/)         | $100 retainer,<br>$500 callout fee |
-| [Side-Along Celebrancy](/services/side-along-celebrancy/) | $250, plus your selected package   |
+| [On-call Celebrant](/services/on-call-celebrant/)         | $100 retainer,<br>$600 callout fee |
+| [Side-Along Celebrancy](/services/side-along-celebrancy/) | $300, plus your selected package   |
 | Extra consultations                                       | $50/hour                           |
 | In-person consultations                                   | $50 callout                        |
 

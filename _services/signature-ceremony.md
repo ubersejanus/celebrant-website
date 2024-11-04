@@ -19,7 +19,7 @@ Starting from a blank slate, we will work together to ensure you get the wedding
 
 # Pricing
 
-The Signature package costs $1,000
+The Signature package costs $1,200
 
 - **Inclusions**
   - Virtual initial consultation
@@ -32,12 +32,18 @@ The Signature package costs $1,000
 - **Add-ons**
   - Extra consultations: $50/hour 
   - In-person consultations: $50 callout
-  - [Side-along Celebrancy](/services/side-along-celebrancy): $250
+  - [Side-along Celebrancy](/services/side-along-celebrancy): $300
   - Order 
 
 Pricing includes travel to venues within one hour of Bayswater, Victoria.
 
 Travel elsewhere in Victoria may be charged by arrangement, and interstate travel will require you to pay for flights and one night’s accommodation.
+
+## Next steps
+
+Let’s have a chat! The more I know about you and your story, the better ceremony I can craft for you.
+
+There are also some important details to discuss like legislated timelines and the paperwork requirements that you'll both need to know about as well.
 
 ## Changes, Cancellation, and Refunds
 

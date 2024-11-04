@@ -13,7 +13,7 @@ While I take care of the legal necessities and perform the actual marriage.
 
 # Pricing
 
-The Standard package costs $250
+The Standard package costs $300
 
 - **Inclusions**
  - An extra 2 hours planning and support to assist your MC prepare the script

@@ -11,4 +11,4 @@ I set out to get registered to officiate marriages after one too many friends an
 
 Apparently, I have big celebrant energy, and I’d love to be able to bring that to bring your dream wedding to life.
 
-I've always treated weddings as Serious Business. As a young child, I was pageboy at my uncle's wedding, and it was made **very** clear to me that looking after the rings was a big important job &ndash; I wasn't to lose them or give them to anybody else. Sadly, no one thought to explain to me that at a certain point in the ceremony, I would have to give them to the Celebrant.
+I've always treated weddings as Serious Business. As a young child, I was pageboy at my uncle's wedding, and it was made **very** clear to me that looking after the rings was a big important job &ndash; I wasn't to lose them or give them to anybody else. Sadly, no one thought to explain to me that at a certain point in the ceremony, I would be asked to give them to the Celebrant. There *might* have been a bit of a scene...

@@ -74,7 +74,7 @@ Once the Registry of Births, Deaths, and Marriages registers your marriage you c
 
 # Determine the Structure of the Ceremony
 
-The minimum requirements for a wedding ceremony are surprisingly short. I am required to identify myself as an authorised marriage celebrant, and the two of you as the people to be married, explain the definition of marriage under Australian law, you are required to make the legal vows in the form specified by the Marriage Act 1961, and we are to sign three certificates (along with your two witnesses). Other than that, the rest of the ceremony is up to you.
+The minimum requirements for a wedding ceremony are surprisingly short. I am required to identify myself as an authorised marriage celebrant, and the two of you as the people to be married, explain the definition of marriage under Australian law, you are required to make the legal vows in the form specified by the *Marriage Act 1961*, and we are to sign three certificates (along with your two witnesses). Other than that, the rest of the ceremony is up to you.
 
 Almost all the traditional elements of a marriage ceremony that you may have expected to see are entirely optional. Some of the popular elements are listed below, along with some examples of what we could say during this part of the ceremony.
 
@@ -131,8 +131,8 @@ I would ask that you bring any misgivings or complaints to me in the first insta
 Complaints must be made within three months of you becoming aware of the problem, and the receipt of your complaint will be acknowledged by the department in writing.
 
 You can complain if a marriage celebrant has broken the rules in the:
-- [Marriage Act 1961](https://www.legislation.gov.au/C1961A00012/latest)
-- [Marriage Regulations 2017](https://www.legislation.gov.au/F2017L01359/latest)
+- [*Marriage Act 1961*](https://www.legislation.gov.au/C1961A00012/latest)
+- [*Marriage Regulations 2017*](https://www.legislation.gov.au/F2017L01359/latest)
 - [Code of Practice for Marriage Celebrants](https://www.ag.gov.au/families-and-marriage/publications/code-practice-marriage-celebrants)
 
 Once your complaint has been received, the Attorney-General’s Department will review it to make sure that they have all the information they need, it has merit, and there is not a more appropriate government department to review the complaint (such as the Australian Competition and Consumer Commission or a state Fair Trading Body) and they may open an investigation.
@@ -147,7 +147,7 @@ They will not deal with a complaint when:
 - the complaint is the subject of other processes
 - the complaint would more appropriately be dealt with by another body.
 
-The Attorney-General’s Department will treat your personal information are required under the Privacy Act 1988 (Cwlth), the Australian Privacy Policy, and their Privacy Policy.
+The Attorney-General’s Department will treat your personal information are required under the *Privacy Act 1988* (Cwlth), the Australian Privacy Policy, and their Privacy Policy.
 
 After completing their investigation, the Attorney-General’s Department will advise the complainant and myself of the outcome of the investigation. Possible outcomes could include:
 - Formal warning
@@ -155,4 +155,4 @@ After completing their investigation, the Attorney-General’s Department will a
 - Suspension of my registration as a celebrant.
 - Deregistration
 
-However, they generally only take disciplinary action where there is a serious or ongoing breach of the Marriage Act 1961 or the Marriage Regulations 2017. 
+However, they generally only take disciplinary action where there is a serious or ongoing breach of the *Marriage Act 1961* or the *Marriage Regulations 2017*. 

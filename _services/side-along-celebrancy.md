@@ -9,11 +9,9 @@ Does your friend or family member have the gift of the gab? They can MC your cer
 
 While I take care of the legal necessities and perform the actual marriage.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
-
 # Pricing
 
-The Standard package costs $300
+Side-along Celebrancy is an add-on costing $300, in addition to the ceremony of your choice.
 
 - **Inclusions**
  - An extra 2 hours planning and support to assist your MC prepare the script
@@ -25,6 +23,12 @@ The Standard package costs $300
 Pricing includes travel to venues within one hour of Bayswater, Victoria.
 
 Travel elsewhere in Victoria may be charged by arrangement, and interstate travel will require you to pay for flights and one night’s accommodation.
+
+## Next steps
+
+Let’s have a chat! The more I know about you and your story, the better ceremony I can craft for you.
+
+There are also some important details to discuss like legislated timelines and the paperwork requirements that you'll both need to know about as well.
 
 ## Changes, Cancellation, and Refunds
 

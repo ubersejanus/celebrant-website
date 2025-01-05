@@ -37,12 +37,12 @@ Even if I know you personally, I am required to identify you on behalf of the Au
     - Marriage Certificate issued by an Australian Registry of Births, Deaths, & Marriages
 - **Evidence of your birthplace if you have not provided it in one of the previous documents**
     - This could be a foreign birth certificate
-    - If you do not have a birth certificate, a [Commonwealth Statutory Declaration](https://www.ag.gov.au/legal-system/publications/commonwealth-statutory-declaration-form) attesting to the date and location of your birth, as well as the reasons why it is practically impossible to obtain a birth certificate signed by you or one of your parents is acceptable.
+    - If you do not have a birth certificate, a [Statutory Declaration](https://www.ag.gov.au/legal-system/publications/commonwealth-statutory-declaration-form) attesting to the date and location of your birth, as well as the reasons why it is practically impossible to obtain a birth certificate signed by you or one of your parents may be acceptable.
 
 ### Additional Documents Required Where a Party has Previously Been Married
 In Australia, a person can only legally be married to one person at a time, and part of the Celebrant’s role is to ensure that both parties to a marriage are currently unmarried.
 
-Where the previous marriage ended in divorce or annulment, you must provide the official paperwork dissolving or annulling the marriage. The name of this document varies depending on when your previous marriage ended. If a marriage has not yet ended, we can begin planning but won’t be able to proceed with the ceremony until your divorce is finalised.
+Where the previous marriage ended in divorce or annulment, you must provide the official paperwork dissolving or annulling the marriage. The name of this document varies depending on when and where your previous marriage ended. If a marriage has not yet ended, we can begin planning but won’t be able to proceed with the ceremony until your divorce is finalised.
 
 Where the previous marriage ended with the death of a spouse, that person’s government-issued Death Certificate must be provided.
 
